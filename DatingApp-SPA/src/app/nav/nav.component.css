@@ -5,3 +5,7 @@
 .fa-heart.main-logo:before {
     color: #18BC9C !important;
 }
+
+.dropdown-item:hover {
+    background-color: #cccccc;
+}
